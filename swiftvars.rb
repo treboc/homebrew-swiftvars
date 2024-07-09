@@ -1,4 +1,4 @@
-class Swiftvars < Formula
+class swiftvars < Formula
   desc "Create your swift and kotlin UI theme templates from Figma JSON"
   homepage "https://github.com/treboc/homebrew-swiftvars"
   url "https://github.com/treboc/homebrew-swiftvars/archive/v1.0.0.tar.gz"
